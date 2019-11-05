@@ -1,0 +1,26 @@
+{
+  "name": "uniapp-component-echarts",
+  "version": "1.0.0",
+  "description": "封装了 echarts 的 uniapp 组件，可能是目前 Github 中使用最简单最容易理解的封装，基于 [echarts-for-weixin 微信小程序](https://github.com/ecomfe/echarts-for-weixin)。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zphhhhh/uniapp-component-echarts.git"
+  },
+  "keywords": [
+    "uniapp",
+    "echarts",
+    "uni-app",
+    "component",
+    "canvas"
+  ],
+  "author": "zphhhhh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zphhhhh/uniapp-component-echarts/issues"
+  },
+  "homepage": "https://github.com/zphhhhh/uniapp-component-echarts#readme"
+}
